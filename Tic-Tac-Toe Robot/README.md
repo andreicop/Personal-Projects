@@ -1,5 +1,6 @@
 # Tic-Tac-Toe Robot
 July 2016
+
 Built and programmed a robot that plays Tic-Tac-Toe with a human. The robot never loses.
 
 Demonstration - https://youtu.be/0kUiP2zsd9o
