@@ -1,4 +1,6 @@
 # Table Tennis Robot
+## March 2020 - January 2022
+
 *• 	Designed a robot for advanced table tennis training at home, using Arduino Nano, brushless motors, and servo motors*
 
 *•	 Engineered a system that launches balls with powerful spin and pinpoint accuracy*
